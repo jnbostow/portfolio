@@ -90,7 +90,7 @@ main {
 }
 .featured-work {
     display: flex;
-    flex-direction: row;
+    flex-flow: row wrap;
     justify-content: center;
 }
 .featured-item {
@@ -146,9 +146,6 @@ main {
     }
     .header-title h2 {
         font-size: 16px;
-    }
-    .featured-work {
-        flex-wrap: wrap;
     }
 }
 

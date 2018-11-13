@@ -102,7 +102,7 @@ main {
 }
 .featured-item h3 {
     font-family: 'Archivo', sans-serif;
-    background: #03c7b6;
+    color: #03c7b6;
     margin: 8px 0 0 0;
     text-transform: uppercase;
     padding: 7.5px;
